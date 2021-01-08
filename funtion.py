@@ -8,3 +8,6 @@ print('Hello world')
 sys.exit()
 #sys.exit() terimate the funtion at this point.
 print('Goodbye world')
+
+# The modules that comes with python is called standerd library 
+# you can also install third party modules using pip tool.
